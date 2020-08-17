@@ -1,0 +1,12 @@
+/Users/john/Projects/Homework/bin/Debug/netcoreapp3.1/Homework.deps.json
+/Users/john/Projects/Homework/bin/Debug/netcoreapp3.1/Homework.runtimeconfig.json
+/Users/john/Projects/Homework/bin/Debug/netcoreapp3.1/Homework.runtimeconfig.dev.json
+/Users/john/Projects/Homework/bin/Debug/netcoreapp3.1/Homework.dll
+/Users/john/Projects/Homework/bin/Debug/netcoreapp3.1/Homework.pdb
+/Users/john/Projects/Homework/obj/Debug/netcoreapp3.1/Homework.csprojAssemblyReference.cache
+/Users/john/Projects/Homework/obj/Debug/netcoreapp3.1/Homework.AssemblyInfoInputs.cache
+/Users/john/Projects/Homework/obj/Debug/netcoreapp3.1/Homework.AssemblyInfo.cs
+/Users/john/Projects/Homework/obj/Debug/netcoreapp3.1/Homework.csproj.CoreCompileInputs.cache
+/Users/john/Projects/Homework/obj/Debug/netcoreapp3.1/Homework.dll
+/Users/john/Projects/Homework/obj/Debug/netcoreapp3.1/Homework.pdb
+/Users/john/Projects/Homework/obj/Debug/netcoreapp3.1/Homework.genruntimeconfig.cache
